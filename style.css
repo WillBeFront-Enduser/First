@@ -1,0 +1,36 @@
+body {
+    background-image: url(nob.jpg);
+
+}
+
+header {
+    color: burlywood;
+}
+
+article {
+    color: burlywood;
+}
+
+aside {
+    color:  burlywood;
+}
+
+footer {
+    color: aqua;
+}
+
+footer {
+    position: fixed;
+    left: 0; bottom: 0;
+    padding: 10px;
+    background: aquamarine;
+    color: #fff;
+    width: 5%;
+}
+
+p {
+    position: top;
+    background: black;
+    color: #fff;
+    width: 4.5%; 
+}

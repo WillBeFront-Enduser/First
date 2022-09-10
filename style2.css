@@ -1,0 +1,14 @@
+body {
+    background-image: url(gaming.jpg);
+}
+
+ul {
+    background: aquamarine;
+    color: black;
+    width: 14.5%;
+}
+
+.cat.jpg {
+    float: right;
+    margin: 0 0 5px 5px;
+   }
